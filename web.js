@@ -1,18 +1,18 @@
 var http = require('http'),
-	eyes = require('eyes'),
 	xml2js = require('xml2js'),
-	async = require('async'),
 	mongoose = require('mongoose'),
- 	Schema = mongoose.Schema;
+	async = require('async'),
+	Schema = mongoose.Schema,
+	request = require('request');
 
 LocationSchema = new Schema({
 	id: {
-		type : Number,
+		type: Number,
 		required: true,
 		unique: true
 	},
 	name: {
-		type : String,
+		type: String,
 		required: true
 	},
 });
@@ -23,17 +23,28 @@ var Location = mongoose.model('Location');
 
 var parser = new xml2js.Parser();
 
-function crawl(url, id){
-	http.get(url, function(res) {
-		console.log(res.statusCode);
-		res.on('data', function (body) {
-			parseLocation(body, url, id);
-		});		
-	})	
+var failedRequests = [];
+var i = 1,
+	j = 501,
+	k = 1001,
+	l = 1501;
+
+function crawl(index) {
+	var url = getUrl(index);
+	process.stdout.write('=');
+	request(url, function(error, response, body) {
+		if(!error && response.statusCode == 200) {
+			parseLocation(body);
+		} else {
+			process.stdout.write('X');
+			failedRequests.push(index);
+		}
+		crawlNext(index);
+	})
 }
 
-function parseLocation(body, url, id){
-	try{
+function parseLocation(body) {
+	try {
 		parser.parseString(body, function(err, result) {
 			var locationTitle = result.rss.channel[0].title;
 			var locationString = result.rss.channel[0].item[0].link[0];
@@ -43,24 +54,29 @@ function parseLocation(body, url, id){
 			});
 			location.save();
 		});
+	} catch(err) {
+		process.stdout.write('X');
 	}
-	catch(err){
-		console.log('parseError : ' + err + ' id : ' + id);
+}
+
+function crawlNext(index) {
+	if(index < 500) {
+		crawl(i++);
+	} else if(index < 1000) {
+		crawl(j++);
+	} else if(index < 1500) {
+		crawl(k++);
+	} else if(index < 2000) {
+		crawl(l++);
 	}
 }
 
-
-N = 1 //# of simultaneous tasks
-var q = async.queue(function (task, callback) {
-    	crawl(task.url, task.id);
-	callback();
-}, N);
-
-
-q.drain = function() {
-    console.log('Tasks queued.');
+function getUrl(i) {
+	return 'http://magicseaweed.com/syndicate/rss/index.php?id=' + i + '&unit=uk';
 }
 
-for(var i = 1000; i < 2000; i++){
-   q.push({url: 'http://magicseaweed.com/syndicate/rss/index.php?id='+i+'&unit=uk', id : i});
-}
+var start = new Date().getTime();
+crawl(i);
+crawl(j);
+crawl(k);
+crawl(l);
