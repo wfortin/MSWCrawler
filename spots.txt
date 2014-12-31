@@ -1,0 +1,3238 @@
+1, Newquay - Fistral North
+2, Porthtowan
+3, Gwithian
+4, Sennen
+5, Constantine
+6, Bude - Crooklets
+7, Croyde Beach
+8, Praa Sands
+9, Whitsand Bay
+10, Bantham
+11, Kimmeridge
+12, Bournemouth
+13, Isle of Wight - Compton 
+14, East Wittering
+15, Brighton - West Pier
+16, Birling Gap
+18, Joss Bay
+19, Lowestoft
+20, Cromer
+21, Withernsea
+22, Scarborough - South Bay
+23, Whitby
+24, Saltburn Beach
+25, Sunderland
+26, Tynemouth - Longsands
+27, Hells Mouth
+28, Pease Bay
+29, Porthcawl - Coney Beach
+30, Aberavon
+31, Langland Bay
+32, Llangennith / Rhossili
+33, Tenby South Beach
+34, Freshwater West
+35, Newgale
+36, Barmouth
+37, Anglesey
+38, St Andrews East
+39, Lunan Bay
+40, Stonehaven 
+41, Aberdeen - Beach
+42, Peterhead (Sandford Bay) 
+43, Fraserburgh
+44, Banff - Beach
+45, Lossiemouth
+46, Sinclairs Bay - Beach
+47, Thurso East
+48, Islay (Machir Bay)
+49, Isle of Lewis
+50, Bundoran - The Peak
+51, Strandhill
+52, Lahinch - Beach
+53, Inch Reefs
+54, Long Strand (Castlefreke)
+55, Tramore - Strand
+56, Portrush
+57, Naples
+58, Venice Beach
+59, North Malin
+60, Clearwater
+61, Hossegor (La Graviere)
+62, Biarritz Grande Plage
+63, Mimizan-Plage
+64, Vieux Boucau
+65, Biscarrosse-Plage
+66, Lacanau
+67, Soulac
+68, Chassiron
+69, L'Aubraie
+70, Les Donnants
+71, Guidel (Les Kaolins)
+72, La Torche 
+73, Baie des Trépassés (Lescoff)
+74, Blancs-Sablons
+75, Lampaul Ploudalmezeau
+76, Le Dossen 
+77, Trestaou  
+78, Plage du Sillon (St Malo)
+79, Le Rozel
+80, Etretat
+81, Cape Town
+82, Sutton on Sea
+83, Skegness
+84, Borth / Ynyslas 
+85, Machrihanish
+86, Treasure Island
+87, Durban
+88, Jeffreys Bay (J-Bay)
+89, Port Elizabeth
+90, Piha
+91, Raglan
+92, Whangamata
+93, Mount Maunganui
+94, Durness (Balnakeil Bay)
+95, Coldingham Bay
+96, Skail Bay Right
+97, Birsay Bay
+98, Eoropie
+99, Filey
+100, Fisk Helliar
+101, Bu Sands
+102, Mangersta
+103, Scarasta
+104, New Plymouth
+105, Stent Road
+106, Opunake
+107, Lyall Bay
+108, Ohope Beach
+109, Papamoa Beach
+110, Gizzy Pipe (Gisborne)
+111, Rolling Stones (Mahia Peninsula)
+112, Diners Beach
+113, Mangamaunu
+114, New Brighton Beach
+115, St Clair (Dunedin)
+116, Greymouth
+117, Westport
+118, 90 Mile Beach
+119, Port Bharrapol (Tiree)
+120, Jersey
+121, El Palmar
+122, Forestry
+123, Owaka Area
+124, Papatowai
+125, Riverton Rocks
+126, Pors Ar Villec (Locquirec)
+127, Praia da Rocha
+128, Sagres (Tonel)
+129, Sines
+130, Carrapateira
+131, Taghazout
+132, Napier
+133, Cotillo
+134, Majanicho
+135, Falmouth
+136, Whitesands Bay
+137, Lyme Regis
+138, Santander (El Sardinero)
+139, Teignmouth
+140, Waddeneilanden
+141, Oostende
+142, Surfers Paradise
+143, Domburg
+144, Slufter
+145, Scheveningen Nord
+146, Zandvoort to Katwijk
+147, Bergen Aan Zee
+155, Norderney
+156, Borkum
+157, St Peter Ording
+158, Sylt
+159, Hvide Sande
+160, Nørre Vorupør
+161, Klitmøller
+162, Mavericks (Half Moon Bay)
+163, Steamer Lane
+164, Exmouth
+165, Sidmouth (Lyme Bay)
+166, Perranporth (Droskyn)
+167, Vazon Bay - Beach - Guernsey
+168, Meñakoz
+169, Mundaka
+170, Orrua
+171, Zurriola
+172, Playa de Meron
+173, Los Locos
+174, Playa de Somo
+175, El Brusco
+176, Tapia de Casariego
+177, Salinas y Espartal
+178, Rodiles
+179, Patos
+180, Playa de Traba
+181, Campelo
+182, Foz
+183, Barbate
+184, Cadiz
+186, Yerbabuena
+187, Afife
+188, Viana do Castelo
+189, Aguçadoura
+190, Leça
+191, Espinho
+192, Praia de Mira
+193, Cabedelo
+194, Nazaré
+195, Lagide
+196, Supertubos
+198, Ericeira
+199, Praia do Guincho
+200, Lisbon/Estoril
+202, Malhão
+204, Playa de Janubio
+205, Playa de La Canteria
+206, Jameos del Agua
+207, La Santa
+208, Ghost Town
+209, Playa de Famara
+210, Playa de la Pared
+211, Las Salinas
+212, East Coast
+213, Bristol
+214, Bajo del Medio
+215, Vagabundo
+216, Arguineguin
+217, Los Enanos
+218, La Cicer
+219, El Confital
+220, La Izquierda del Muelle
+221, Derecha del Faro
+222, La Fitenia
+223, La Izquierda / Spanish Left
+224, Punta Blanca - K16
+225, Playa del Socorro
+226, Los dos Hermanos
+227, Eland's bay
+228, Stillbay
+229, Victoria Bay
+230, Buffels Bay
+231, Coffee Bay
+232, Mzimpuni
+244, Briech
+245, Mehdya Plage
+246, Rabat
+247, Oued Cherrat
+248, Dar Bouazza
+249, Jack Beach
+250, El Oualidia
+251, Safi
+252, Boilers
+254, Agadir
+255, Ocean Beach
+256, Davenport Landing
+257, Four Mile
+258, Manresa Beach
+259, Moss Landing
+260, Andrew Molera State Park
+261, Cambria
+262, Morro Bay
+263, Saint Annes
+264, Oceano/Pismo
+265, Jalama Beach County Park
+266, The Ranch - Cojo Reef
+267, Beavers/Hazards
+268, Sands Beach
+269, Campus Point
+270, Leadbetter Beach
+271, Hammonds Reef
+272, Rincon Point
+273, Hobson County Park
+274, Pitas Point/Faria County Park
+275, California Street (C Street)
+276, Silver Strand
+277, County Line/Yerba Buena Beach
+278, Secos
+279, Malibu - First Point
+280, Santa Monica Municipal Pier
+281,  Manhattan Beach 
+282, Haggertys
+283, Lunada Bay
+284, Cabrillo Point
+285, Seal Beach Pier
+286, Huntington Pier
+287, The Wedge
+288, Morro Beach
+289, Salt Creek
+290, San Clemente Pier
+291, Trestles
+292, Carlsbad
+293, Swamis
+294, Solana Beach
+295, Torrey Pines/Blacks Beach
+296, Scripps Pier/La Jolla
+297, Mission Beach (San Diego)
+298, South Beach
+299, Klamath River
+300, Patricks Point
+301, Moonstone beach
+302, Eureka
+303, Virgin Creek
+304, Point Arena
+305, Secrets
+306, Salmon Creek
+307, Marin County
+308, La Push
+310, Westport
+311, Long Beach
+313, Cannon Beach
+314, Smugglers Cove
+315, Cape Lookout
+316, Lincoln City
+317, Otter Rock
+318, Newport
+319, Winchester Bay
+320, Coos Bay
+321, Gold Beach
+322, Brookings
+323, Vancouver Island South (Jordan River)
+324, Vancouver Island North (Long Beach)
+325, Punta Blanca
+326, Playa Elefante
+327, Punta Negra
+328, Cerritos
+329, Costa Azul
+330, Hammerhead
+331, Las Islitas
+332, Punta Sayulita
+333, Pascuales
+334, Rio Nexpa
+335, Petacalco
+336, The Ranch
+337, Las Gatas
+338, Playa Boca Chica
+339, Acapulco
+340, Puerto Escondido
+341, La Bocana
+342, Lawrencetown
+343, Western Head
+344, Main Beach
+345, Jacksonville Beach
+346, St. Augustine
+347, Flagler Pier
+348, Ponce Inlet (New Smyrna)
+349, Playa Linda
+350, Cocoa Beach
+351, Melbourne Beach
+352, Sebastian Inlet
+353, Stuart Beach
+354, Jupiter Inlet
+355, Reef Road
+356, Palm Beach
+357, Deerfield Beach
+358, Haulover
+359, South Beach
+360, Octagon
+361, Bob Hall Pier
+362, Higgins Beach
+363, Fortunes Rocks
+364, Kennebunk Beach
+365, Ogunquit River
+366, Short Sands
+367, Long Sands
+368, Rye Rocks
+369, The Wall
+370, Cape Ann
+371, Nantasket Beach
+372, Scituate
+373, Cape Cod
+374, Ruggles
+375, Monahan's Dock
+376, Lighthouse (Point Judith)
+377, Matunuck
+378, North Bar
+379, Fortress
+380, Fire Island
+381, Robert Moses State Park
+382, Lido Beach
+383, Long Beach
+384, Rockaway
+385, The Cove
+386, Manasquan
+387, Casino Pier
+388, Surf City
+389, Holyoke
+390, States Avenue
+391, Ocean City, NJ
+392, Wildwood
+393, Stockton
+394, Indian River
+395, Ocean City, MD
+396, Virginia Beach
+397, Kill Devil Hills
+398, S Turns
+399, Cape Hatteras
+400, Bogue Pier
+401, Topsail Island
+402, Crystal Pier
+403, Pelican Watch
+404, Dunes Cove
+405, Garden City Pier
+406, The Washout
+407, Hunting Island
+408, Comfort Inn/Jekyll Island
+409, La Bahia (Guayas)
+410, Montañita
+411, Murcielago (Manta)
+412, Máncora
+413, Cabo Blanco
+414, Negritos
+415, Puerto Eten
+416, Chicama
+417, Punta Huanchaco
+418, El Silencio
+419, Pico Alto
+420, Santa Rosa
+421, Playa Cavancha (Iquique)
+422, El Tojo Viejo (Arica)
+423, Ritoque
+424, Cartagena
+425, La Boquilla
+426, Matanzas
+427, Pichilemu
+428, Punta de Lobos
+429, Joaquina
+430, Guarda de Embau
+431, Garopaba
+432, Rosa
+433, Pitangueiras
+434, Maresias
+435, Gaibu
+436, Maracaipe
+437, Cacimba do Padre
+438, Boldró
+439, Punta Roca
+440, El Sunzal
+441, Los Cobanos
+442, Ollies Point (Potrero Grande)
+443, Witches Rock (Playa Naranjo)
+444, Tamarindo
+445, Nosara
+446, Pavones
+447, Pan Dulce
+448, Santa Catalina - La Punta
+449, Emily's (Morro Negrito)
+450, Little Malibu (Rincon)
+451, Crash Boat
+452, Dunes (Puerto Rico)
+453, Le Moule
+454, Petit Havre
+455, Port Louis (Grande Terre)
+456, Soup Bowl
+457, South Point - Barbados
+458, Sandy Lane
+459, Duppies
+460, Tilapa
+461, Sipacate
+462, Puerto San José
+463, Pochomil
+464, Manzanillo
+465, Playa Maderas
+466, Playa Carmen
+467, Roca Loca
+468, Playa Bonita
+469, Salsa Brava
+470, Silverbacks
+471, Punta Palmar (San Carlos)
+472, Panamá La Vieja (Panama City)
+473, Indicas
+474, Egg Island
+475, Surfers Beach
+476, Puerto Plata
+477, La Bahia
+478, Encuentro
+479, La Preciosa
+480, Cane Garden Bay
+481, Josiah's Bay
+482, Loblolly Bay
+483, Wilderness
+484, Cupecoy
+485, The Ledge
+486, Anse Couleuvre
+487, Grand Riviere
+488, Plage des Surfeurs
+489, Playa Parguito
+490, Playa Copey
+491, Estero del Plátano
+492, Mompiche
+493, Canoa
+494, La Islilla (Piura)
+495, Nonura
+496, La Herradura (Lima)
+497, Hornitos
+498, Peñarol
+499, La Puntilla (Antofagasta)
+500, La Popular
+501, Miramar
+502, Pepino
+503, Ponta Negra
+504, Geriba 
+505, Tiririca
+506, Norte
+507, Baduska
+508, Boca do Poço
+509, Tabinha
+510, Icarai
+511, Fortaleza
+512, Jakes
+513, Bowes River
+514, Drummonds
+515, Geraldton
+516, Three Bears
+517, Injidup
+518, Margaret River
+519, Witzig's (Point Sinclair)
+520, Johanna
+521, Apollo Bay
+522, Lorne
+523, Anglesea
+524, Bells Beach
+525, Torquay
+526, Sydney (Manly)
+527, Miami
+528, Kirra
+529, Trigg Point
+530, Strickland Bay
+531, Chinamans
+532, Seaford
+533, Middleton Point
+534, Cape Kersaint
+535, Gunnamatta
+536, Phillip Island
+537, Shipstern Bluff
+538, Cloudy Bay
+539, Clifton Beach
+540, Cabarita
+541, Byron Bay
+542, Lennox Head
+543, Double Island Point
+544, Tea Tree (Noosa)
+545, Coolum Beach
+546, The Bluff
+547, Happys (Caloundra)
+548, Satellite Beach
+549, Waimea Bay
+550, Gorleston
+551, South Padre Island
+552, Hoddevika
+553, Brusand
+554, Sele
+555, Point Perfect (Orre)
+556, Saltstein
+557, Al Ashkharah
+558, Salalah
+559, Seal Rocks
+560, Cape Kiwanda
+561, North Jetty (Hikkaduwa)
+562, Arugam Bay
+563, G-Land
+564, Nusa Dua
+565, Uluwatu
+566, Kuta Beach
+567, Desert Point
+568, Kuta
+569, Beacons
+570, Tiger Stripes
+571, Malé
+572, Pasta Point
+573, Castlepoint
+574, Elbow Ledge
+575, Lagundri Bay - The Point
+576, Moulay Bousselham
+577, Barra Beach
+578, Jelly Babies (Anakao)
+579, Monseigneur Bay
+580, Accra
+581, Busua Beach
+582, Mutrakni Point
+583, Elmina
+584, Assini
+585, Grand-Lahou
+586, Dagbego (Dabego)
+587, Sassandra
+588, San Pedro
+589, Boucan
+590, Roches-Noires
+591, Pointe des Trois-Bassins
+592, Saint-Leu
+593, Saint-Pierre
+594, Tamarin Bay
+595, Souillac
+596, La Ferme
+597, Choshi
+598, Torami
+599, Hebara
+600, Kamogawa (Big Ben)
+601, Wada Rivermouth
+602, Niijima
+603, Kaifu River
+604, Ikumihama
+605, Niyodo
+606, Aha Point
+607, Kudaka
+608, Castles
+609, Sunabe Seawall
+610, Mainside
+611, Buma
+612, Okuragahama
+613, Ishinamigawa
+614, Kisakihama
+615, Oura
+617, Peahi - Jaws
+618, Ma'alaea Bay
+619, Teahupoo
+620, Taapuna
+621, Rangiroa Atoll
+622, Faré
+623, Asu
+624, Bawa
+625, Lances Left
+626, Macaronis
+627, Sibigau Rights
+628, E-Bay
+629, Ujung Bocur
+630, Jimmys Point
+631, Pangandaran
+632, Cimaja
+633, Ombak Tujuh
+634, One Palm Point
+635, Super Suck
+636, Palau Rote
+637, Cloud 9
+638, Badoc Point
+639, Jardim do Mar
+640, Pohnpei (Palikir-Pass)
+641, Fajazinha
+642, Cozumel
+643, 2nd Street (Tybee Island)
+644, Pleasure Point
+645, Dakar
+646, Ponta Preta
+647, La Barqueta
+648, Hamilton
+649, Phuket
+650, Carolina Beach
+651, Navarre Beach
+652, Similan Islands
+653, Lista
+654, Unawatuna Bay
+657, Sunset
+658, Rocky Point
+659, Velzyland
+660, Hale'iwa
+661, Ala Moana
+662, Queens/Canoes (Waikiki)
+663, Pacific Beach
+664, Oceanside
+665, Newport Beach
+666, Carmel Beach
+667, Brandon Bay
+668, Cuyagua
+669, Tavarua - Cloudbreak
+670, Daytona Beach
+671, Kailua
+672, Folly Beach Pier
+673, Hustadvika
+674, Unstad Beach
+675, Ocean Isle Beach
+676, Hosta
+677, Kitty Hawk
+678, Karmøy
+679, Tywyn to Aberdovey
+680, Puerto Armuelles
+684, Holden Beach
+685, Achill Island
+686, Thorli (Porlackshöfn)
+687, Sandvik
+688, Playas (Guayaquil)
+692, Fort Pierce
+694, Dublin Area
+695, Kraakevika
+696, Florence
+697, Honolua
+698, Ballina
+699, Coffs Harbour
+700, Port Macquarie
+701, Newcastle
+702, Shoal Bay
+703, Wollongong
+706, Atlantic Beach
+707, Puerto Baquerizo
+708, Cerro Gallina
+709, Seymour Norte
+710, Cape Flattery
+711, Plettenberg Bay
+712, Wilderness
+713, Mossel Bay
+714, Cape St. Francis
+715, Port Alfred
+716, East London
+717, Richards Bay
+718, Margate
+719, Hermanus
+720, Red Bluff
+723, Warrnambool
+724, Waitpinga
+725, Khao Lak
+726, Stony Rise
+727, Vero Beach
+729, Antsiranana
+730, Ambohitralanana
+734, Scamander
+735, Bicheno
+736, Fripp Island
+737, K59 and 61
+738, La Bocaina
+742, La Playita
+743, Palma sola beach
+744, Mawgan Porth
+745, El Zonte
+746, Waitpinga Beach 
+747, Parsons Beach
+748, Myponga Beach
+749, Bullies
+750, Matches
+751, Ethel Wreck
+752, Westcape Beach
+753, Trespassers
+754, Salmon Hole
+755, Tai Long Wan SK
+756, Hualien
+757, Taitung
+759, Point Michaud
+760, Isle of Palms Pier
+761, Angourie Point 
+762, Clarence River
+763, Turners Wall 
+764, Pippi Beach 
+765, Turners Beach 
+766, Miller's Landing
+767, The Wall
+768, Punta Sta Rosalillita
+769, Puerto San Andres
+770, Punto Lobos
+771, El Cardon
+772, Punta Maria
+773, Punta Cono
+774, Punta Canoas
+775, Monuments
+776, Migrino
+777, Isla Todos Santos (Killers) 
+778, Pescadero
+779, Bahia Chileno
+780, Las Frailes
+781, Punta Arenas
+783, Misquamicut
+784, Breachway
+785, K38/39
+787, Cow Bay
+788, Summerville
+789, Baga Beach
+790, Cancun
+791, Peñascal
+792, La Isla (Punta Hermosa)
+793, San Bartolo
+794, Balandra
+795, Toco
+796, South Coast
+797, Yumuri
+798, Playa mar Verde
+799, Puerto Rico (Cuba)
+800, La Habana
+802, Cabo de San Antonio
+803, Northern Burma
+804, Southern Burma
+805, Central Burma
+806, Shonan
+807, Shirahama
+808, Omaezaki
+809, Hamamatsu
+810, Irago
+811, Las Galletas
+812, Fisheries Bay
+813, Warner Beach
+814, Martinique Beach
+815, Eguchi-hama 
+816, Kanehama (Kana-hama)
+817, Scotts Head
+818, Chincha 
+819, Linda Mar / Pacifica
+820,  Papenoo 
+821, Avalon
+822, Deal
+823, Sodwana Bay
+824, Ponta do Ouro
+825, Ghost Trees
+826, Boston Bay
+827, Bull Bay
+828, Sandend (Moray Firth)
+829, Enniscrone
+830, Wave Buoy 62029
+831, Hovden
+832, Ko Samui
+833, Pacitan
+834, Brimms Ness - The Point
+835, Lake Worth Pier
+836, Arrifana
+837, Fort Lauderdale
+838, La Saladita
+839, Kovalam
+840, Puri Beach
+841, Lohi's
+842, Sawarna
+844, Wushi
+845, El Burro (Glasbeach)
+846, 2nd Beach (Sachuest Beach)
+847, Muizenberg
+848, Kommetjie
+849, Juno Beach
+850, Belhaven Bay (Dunbar)
+851, Destin
+852, Old Orchard Beach
+853, Zuma Beach County Park
+854, Point Dume
+855, Austinmer Beach
+857, Asbury Park
+858, Playa Los Cerritos
+859, Willawahs (Guana Cay)
+861, Wave Buoy 62081
+862, Wave Buoy 64045
+863, Boulders
+864, Plymouth Beach
+865, Burleigh Heads
+866, Cayucos
+867, Jailbreaks
+868, Honky's
+869, Sultans
+870, Mastic Beach
+871, Grindavik
+872, Chirimena
+873, Melkbosstrand
+874, Costa da Caparica
+875, Lakey Peak
+876, Nihiwatu
+877, Watu Libung
+878, Bingin
+879, Puerto Sandino
+881, Jenness Beach
+882, Playa Venao
+883, Capbreton (La Piste/VVF)
+884, Contis-Plage
+885, Cap de L'Homy
+886, St-Girons Plage
+887, Moliets Plage
+888, Ondres Plage
+889, Les Culs Nus
+890, Les Estagnots
+891, Hossegor (La Nord)
+892, Les Cavaliers
+893, Sables d'Or
+894, Cote des Basques
+895, Ilbarritz
+896, Guethary
+897, Lafitenia
+899, Masirah Island
+900, Banana Point
+901, Foz de Lizandro
+902, Springmaid Beach
+903, Kandui
+904, Rifles
+905, Anchor Point
+906, Cortegaca
+907, 1st Beach (Eastons Beach)
+909, Keramas
+910, Las Flores
+911, Punta Mango
+912, Carcavelos
+913, Careneros
+914, Playa Santa Teresa
+915, Wijk Aan Zee/Noordpier
+916, Bank Vaults
+917, Thunders
+918, Rag's Right
+919, Renesse
+920, Avellana
+921, Praia de Sabon
+922, Mirissa
+924, El Palmarcito
+925, Los Lobos
+926, Lobitos
+927, La Bocana
+928, Strand
+929, Hainan
+930, Bertra Beach (Murrisk)
+933, Jennys Right
+934, Telescopes
+935, Canggu
+936, Vale Figueiras
+937, El Hierro
+938, Morro Negro
+939, Popoyo
+940, Playa Colorado
+941, Scar Reef
+942, Matosinhos
+943, Isle of Man
+946, Harlyn
+947, Barra da Tijuca
+948, Praia Da Macumba
+949, Mangalore Port
+950, Kumta
+951, Mahabalipuram Shore Temple
+952, Manapad Point ( Kulasekharapatanam)
+953, Rushikonda Beach
+954, Okaloosa Pier
+955, The Cross
+956, Alabama Point
+957, Pondicherry
+958, Widemouth Bay
+959, Duranbah (D-Bah)
+961, Watergate Bay
+965, Sandymouth
+967, Newquay - Towan / Great Western
+968, Putsborough
+969, Polzeath
+970, Tanjung Cherating
+971, Sitka (The Wall)
+972, Yakutat (Cannon Beach)
+973, Kodiak (Fossil Beach)
+974, Squibnocket
+975, Long Point
+976, South Beach
+977, Lucy Vincent
+978, Abels Hill
+979, Busca Vida       
+980, Praia Do Flamengo
+981, Prainha
+982, Boca da Barra
+983, Makaha Point
+984, Makapuu Point 
+985, Winkipop
+986, Carrowniskey
+987, Playa Hermosa
+988, Laguna Beach (Brooks Street)
+989, The Pier (Pawleys Island)
+990, Imsouane (Cathedral Point)
+991, Imsouane (The Bay)
+992, Beadnell Bay
+993, Manorbier
+994, Cantinho Da Baia
+995, Ballito
+996, Sydney (Bondi)
+997, Sydney (Cronulla)
+998, North Narrabeen
+999, Dee Why Point
+1000, Curl Curl
+1001, Agnes Water
+1002, Fraser Island
+1003, Alexandria Bay (Noosa)
+1004, Sunshine Beach
+1005, Pin Cushion (Maroochydore)
+1006, Kawana
+1007, Point Cartwright
+1008, Moffats
+1009, North Stradbroke Island
+1010, South Stradbroke Island
+1012, Surfers Paradise (Gold Coast)
+1014, Snapper Rocks
+1015, Fingal Head
+1016, Kingscliff
+1017, Pottsville Beach
+1018, Brunswick Heads
+1019, Tallow Beach
+1020, Evans Head
+1021, Brooms Head 
+1022, Arrawarra
+1023, Emerald Beach
+1024, Moonee Creek
+1025, Sawtell
+1026, Valla
+1027, Crescent Head
+1028, North Haven
+1029, Old Bar
+1030, Forster
+1031, Boomerang Beach
+1032, Anna Bay
+1033, Bar Beach (Dixon Park)
+1034, Redhead
+1035, Swansea 
+1036, Shelly Beach
+1037, Box Head
+1038, The Peak (Newport Beach)
+1039, Wombarra
+1040, The Farm
+1041, Bombo
+1042, Seven Mile Beach
+1043, Black Rock / Aussie Pipe
+1044, Sussex Inlet
+1045, Mollymook Beach
+1046, Broulee
+1047, Bermagui
+1048, Merimbula
+1049, Mallacoota
+1050, Cape Conran
+1051, Lake Tyers
+1052, Wilsons Promontory
+1053, Wonthaggi
+1054, Point Leo
+1055, Flinders Beach
+1056, Ocean Grove
+1058, St Andrews
+1059, Manzanillo  Bay
+1060, Cayton Bay - Pumphouse
+1061, Zarautz
+1062, Playa Grande - Guanacaste
+1063, Coke's / Cola's
+1064, Chickens
+1065, Point Lonsdale
+1066, Jan Juc
+1067, Point Addis
+1068, Hut Gulley (Guvvos)
+1069, Point Roadknight
+1070, Fairhaven
+1071, Wye River
+1072, Castle Cove
+1073, Princetown
+1074, Port Fairy
+1075, Discovery Bay
+1076, Port Macdonnell
+1077, Mizata
+1078, Buarcos
+1080, Frisco
+1081, Lusty Glaze
+1082, Rossnowlagh
+1086, Tamri
+1087, Punta Conejo 
+1088, Shipwrecks - Lembongan
+1089, Playgrounds
+1090, Lacerations
+1091, Nahant
+1092, Central Florida Hurricane
+1093, Outer Banks Hurricane
+1094, New Jersey Hurricane
+1095, New England Hurricane
+1096, Nova Scotia Hurricane
+1098, Sagres (South)
+1099, Sandy Beach
+1100, Dunfanaghy
+1101, El Astillero
+1102, El Penon
+1103, Narragansett Beach
+1104, Schiermonnikoog
+1105, Ameland
+1106, Vlieland
+1107, Terschelling
+1108, Callantsoog
+1109, Julianadorp
+1110, Petten
+1111, Noordwijk aan Zee
+1112, Katwijk
+1113, Ter Heijde
+1114, Blankenberge
+1115, Westende
+1116, Juist
+1117, Baltrum
+1118, Langeoog
+1119, Spiekeroog
+1120, Wangerooge
+1121, Padang Padang
+1122, Tofino (Cox Bay)
+1123, Tofino (Chesterman Beach)
+1124, Sopelana
+1125, Dauphin Island
+1126, South Shields
+1127, Marwick
+1128, Lagos
+1129, Scarborough - North Bay
+1130, Salisbury
+1131, Playa Negra - Guanacaste
+1132, Southend on Sea
+1133, Newcastle
+1134, Silecroft
+1135, Medewi
+1143, Playa Santana
+1148, The Wedge
+1149, Ponto
+1150, S*** Pipe
+1152, drivers
+1153, The edge
+1154, The Point
+1155, Barrel Rock
+1156, Bunmahon
+1158, Longport, 32nd St.
+1159, Las Cuevas (La Popular)
+1160, PD SPOT(Windmill)
+1161, Highcliffe
+1163, Big Wave Bay HK
+1164, Cheung Sha
+1167, Boynton Inlet
+1168, Pariaman
+1169, Cedros
+1170, Fouesnou
+1171, Les Roches Blanches (Pointe Leydé)
+1172, Puerto Morin
+1173, Los Organos
+1174, Great Yarmouth
+1175, Casernes 
+1176, Trouville
+1177, Los Caracas
+1178, Puerto Cruz
+1179, El Peaje
+1180, Rose Island
+1181, Batts Rock
+1182, Elly Bay West
+1183, Sydney (Maroubra)
+1184, Diamond Head
+1185, La Setenta (Playa 70)
+1186, Coalcliff Reef
+1187, Maderia Beach 
+1188, Currumbin Point
+1189, El Cayo
+1190, Umina Beach
+1191, St Brelades - Jersey
+1192, Plemont Bay - Jersey
+1193, Greve de Lecq - Jersey
+1194, Macuro
+1195, Southwold
+1201, Todos Santos (mainland)
+1203, Dungeons
+1204, Rocky Point (Margarita)
+1205, Guacuco
+1206, Taguantar 
+1207, Las Salinas 
+1208, Punta ballena 
+1209, Punta Arena 
+1210, El Bajo (Malecon)
+1211, Navegantes
+1212, Indian Rocks 
+1213, El Palito
+1214, Redington Rocks
+1215, Sunset Beach
+1216, St Pete Beach
+1217, Rio Chico
+1218, Yzerfontein
+1219, Playa de Orzola
+1221, Pass-A-Grille Jetty
+1223, Playa Los Cuatro
+1224, La Boca Con Con
+1225, Horizonte del Sol
+1226, Paignton
+1227, Garretstown
+1228, Esmoriz
+1229, Hourtin
+1230, Canto do Recreio
+1231, Clogherhead
+1232, Viejo y el Mar
+1233, Challaborough
+1234, Wembury
+1235, Santa Marina
+1238, Mandiri
+1239, Xivares
+1240, Tobay Beach
+1241, Assinie
+1242, Conil
+1243, Walton Rocks
+1244, Hookipa
+1245, Champerico
+1246, Hapuna Pt
+1247, Kahaluu
+1248, Avoca Beach
+1249, Guaratuba
+1250, Punta Abreojos
+1251, Skunk Point
+1252, Haskels Beach
+1253, Porthleven
+1254, Greens Beach
+1255, Odeceixe
+1256, Falesia-Vilamoura
+1257, Praia Grande Sintra
+1258, Cazon (Buchuaco)
+1259, Panama City Beach
+1260, Hull Bay
+1261, Umdloti 
+1262, Copec 
+1263, La Sabana
+1264, Jetty Park
+1265, Sunabe II
+1266, Tidemills
+1267, Thirteenth Beach 
+1268, Salinas Grandes
+1269, Fitzroy Beach 
+1270, Essaouira
+1271, Imbituba
+1272, Sanur
+1273, Itacoatiara
+1274, Windmills
+1275, El Tránsito
+1276, Playa Conchalio
+1277, Arpoador
+1278, El Bolsillo (Pradomar)
+1279, Praia da Pipa
+1280, Quequen
+1281, Sea Isle City 
+1282, Rayong Mae Ramphung
+1283, Banna Beach 
+1284, Kleinmond
+1285, Pinamar
+1286, Llangrannog
+1287, Serena
+1288, Praia da Barra
+1289, Tifnit
+1290, Turtles
+1291, Kugenuma Kaigan 
+1292, Yallingup
+1293, Berawa Beach
+1294, Seminyak
+1322, Saunton Sands
+1323, Boscombe
+1324, Penhale (Perran Sands)
+1325, Eastbourne
+1329, Southbourne
+1331, Chapel Porth
+1334, Portreath - Beach
+1335, St Agnes
+1336, Newquay - Tolcarne Wedge
+1337, Newquay - Porth
+1338, Whipsiderry
+1340, Godrevy
+1343, Gwenvor
+1344, Hayling Island
+1346, Shoreham
+1347, Brighton - Marina
+1351, Westward Ho!
+1352, Woolacombe
+1355, Bude - Summerleaze
+1358, Crackington Haven
+1360, Newquay-  Little Fistral
+1361, Newquay - Fistral South 
+1362, Newquay - Cribbar
+1363, Crantock
+1365, Redcar
+1366, Marske to Tees
+1370, Whitley Bay
+1377, Bamburgh
+1379, Isle of Wight - Freshwater
+1381, Seaton To Blyth
+1383, Littlehampton
+1390, Treyarnon
+1394, Porthmeor
+1396, East Runton
+1397, Mundesley
+1398, Bacton
+1399, Walcott
+1400, Torbay
+1402, Nigg Bay
+1403, Balmedie to Newburgh
+1404, Boyndie Bay
+1407, Skara Brae
+1410, Sango Bay
+1411, Port of Ness
+1414, St Combs to Inverallochy
+1416, Saligo Bay
+1417, Laggan Bay
+1418, Ardnave Bay
+1419, Lossit Bay
+1422, Dalbeg
+1424, Cliff
+1425, Westport
+1427, Graveyards
+1428, Caravans
+1429, Dunaverty
+1433, Keiss
+1435, St Andrews West
+1436, Kingsbarns
+1437, Arbroath
+1438, S*** Pipe
+1439, Murkle Point
+1440, Castlehill to Murkle
+1442, Dunnet Bay
+1443, Balephuil
+1444, The Maze
+1445, The Hough
+1448, Cruden Bay
+1449, Porthcawl - Rest Bay
+1456, Hunts Bay
+1474, Aberdaron
+1477, Abereiddy
+1478, Harlech to Barmouth
+1480, Mossies
+1481, Garywilliam Point
+1482, Inch Strand
+1483, Rossbeigh
+1488, Kilmurren
+1489, Annestown Bay
+1490, The Perfect Wave
+1491, Rosapenna
+1492, Pollacheeny Harbour
+1493, Kilcummin Harbour
+1494, Lackan Bay / Kilcummin
+1495, Lahinch - Shit Creek
+1496, Lahinch - Cornish Left
+1497, Cregg / Moy Beach
+1498, Pollan Bay
+1499, Dunmoran Strand
+1500, Easkey Left
+1501, Easkey Right
+1503, Tramore - Incredible Wave
+1504, Mullaghmore Strand
+1505, Mullaghmore Head
+1506, Le Club 
+1507, Le VVF   
+1508, Marinella 
+1509, Les Corsaires  
+1510, La Madrague
+1511, Erretegia
+1512, Guethary (Avalanche) 
+1513, Les Alcyons
+1515, Parlementia
+1517, L'Horizon
+1518, Porsmilin 
+1519, Dalbosc 
+1520, Le Petit Minou 
+1521, Anse de Pen-hat
+1522, Pors-ar-Vag
+1523, Cap de la Chèvre
+1524, La Palue 
+1525, Lespecier
+1526, Le Santocha
+1527, Le Prevent
+1528, L'Estacade
+1529, Le Penon
+1530, Gwendrez 
+1531, Hossegor (La Sud)
+1532, Les Bourdaines
+1533, Porzcarn
+1534, Lesconil     
+1535, Carcans
+1536, Le Porge
+1537, La Jenny
+1538, Le Crohot des Cavales
+1539, Erromardie
+1540, Bidart
+1541, Sainte-Barbe
+1542, Ciboure Socoa
+1543, Belharra Perdun   
+1544, St Pabu 
+1545, Penfoul 
+1546, La Mauvaise Grève
+1547, Siouville
+1548, Dielette
+1549, Les Boulassiers 
+1550, Les Huttes 
+1551, St-Trojan
+1552, St-Denis 
+1553, La Barre
+1554, Tarnos
+1555, Labenne-Ocean
+1556, La Côte Sauvage
+1557, Plage du Loch 
+1558, Le Kérou
+1559, Toulhars 
+1560, Gavres
+1561, Etel
+1562, Le Pin Sec
+1563, L'Amelie
+1564, Le Verdon
+1565, Le Gurp
+1566, Montalivet
+1567, Pontaillac 
+1568, Sauveterre 
+1569, Saint-Nicolas
+1570, Les Dunes 
+1571, La Sauzaie 
+1572, Saint Gilles Croix de Vie
+1573, Les Conches/Bud Bud
+1574, Porz Théolen
+1575, Saint Tugen
+1576, Pointe de Lervily
+1577, La Gamelle  
+1578, Les Longchamps
+1579, Cap Fréhel
+1580, Sainte Adresse
+1581, Hendaye Plage
+1582, La Pointe
+1583, Le Truc Vert
+1584, Le Grand Crohot
+1585, Le Gouerou  
+1586, Kerloch
+1587, Pointe de Dinan 
+1588, Vaucottes
+1589, Yport
+1590, Petites Dalles
+1591, Boutrouilles
+1592, Collignon
+1593, L'Anse du Brick
+1594, Hatainville 
+1825, Camperduin
+1828, Kijkduin
+1829, Hoek Van Holland
+1830, Blokken
+1831, Schouwen Duiveland
+1832, Vlissingen
+1833, Bredene
+1834, Mariakerke
+1835, Oostduinkerke
+1836, Bunkers
+1837, Hanstholm
+1848, El Conquistador
+1849, Derecha del Cartel
+1850, El Confital - Tenerife
+1851, El Callado
+1852, Fuera de la Bajeta
+1853, El Charco 
+1854, Los Patos
+1855, La Caleta
+1865, El Paso
+1868, Molokai
+1869, Quintanilla - Gran Canaria
+1870, El Comedor
+1871, Boquines
+1873, El Lloret
+1874, La Barra - Las Canteras
+1875, Mosca Point
+1876, Playa de las Mujeres
+1877, Playa del Ingles
+1878, Tauro
+1879, El FrontÃ³n
+1882, Bocabarranco - Gran Canaria
+1883, Refsnes
+1884, Pigsty/Piggy
+1885, Reve Havn
+1886, Bore
+1888, Byberg
+1889, Hellestø
+1892, Kvassheim
+1893, Ervik
+1894, SuppÃ¥
+1897, Perelle Bay - Dom Hue - Guernsey
+1900, Portinfer - Guernsey
+1901, L'Ancresse Bay - Guernsey
+1902, Fort Le Marchant - Guernsey
+1903, Secrets - Jersey
+1904, Stinky Bay - Jersey
+1905, Les Brayes - Jersey
+1906, La Rocco - Jersey
+1907, Petite Port - Jersey
+1950, Sumner Bar (Christchurch)
+1952, Smails Beach
+1953, Sandfly Bay
+1956, Waiwakaiho
+1957, Back Beach (Taranaki)
+1958, Sponge Bay
+1959, Stock Route
+2014, Oakura
+2015, Ahu Ahu
+2017, Waitara Bar
+2019, Punihos
+2020, Komerne Road
+2021, Scott Point 
+2024, Green Meadows
+2025, Long Point
+2026, Railways
+2027, Opoutama
+2028, Black's Beach
+2029, Mahia Reef
+2033, Last Chance
+2057, La Punta - Playa Zicatela
+2058, Ostiones
+2059, San Pancho
+2060, Escolleras
+2061, Playa Linda
+2062, Stoner's Point
+2063, Aticama
+2064, Santa Cruz - Nayarit
+2065, Troncones
+2066, San Augustin
+2067, El Paraiso
+2068, Cuyutlan
+2069, El Faro (Guerrero)
+2070, Colotepec
+2071, Punta Chivo
+2072, La Ventosa
+2073, Barra de Potosi
+2074, Hampton Beach
+2075, Linkys
+2077, Costellos
+2078, Seabrook Beach
+2087, Cherry Grove Pier
+2088, Devils Rock
+2089, Blinky Beach
+2090, Harry's
+2092, Bagasbas Beach
+2096, Bailey's Beach
+2148, Lagundri Bay - Indicators
+2149, The Machine
+2152, 27th Ave/North Myrtle
+2153, 17th Street Boardwalk
+2155, North Jetty
+2159, Ditch Plains
+2160, Atlantic Terrace
+2161, Turtle Cove
+2162, Jones Beach State Park
+2180, FAE
+2181, Chocolatera
+2182, Punta Chulluype
+2183, Punta Bellaca
+2184, Punta Galera
+2185, San Mateo
+2186, Punta Suspiro
+2187, Portete
+2188, Punta Tonchigue
+2189, Atacames
+2190, La Mesita
+2191, Cabo Pasado
+2192, Punta Mala
+2193, Bocana del Cojimies
+2194, Engabao
+2195, Punta Panico
+2196, Cabo Blanquillo
+2197, El Nuro
+2198, Punta Restin
+2199, Yacila
+2200, Punta Negra (Piura)
+2201, Punta Ballenas
+2202, Punta Arena (Piura)
+2203, Punta Lobo
+2204, Punta Aguja
+2205, Punta Tur
+2206, Punta Prieta
+2207, Silver Sands
+2208, Freights
+2209, Surfer's Point - Barbados
+2210, Tent Bay
+2211, Parlors
+2212, Sand Bank
+2213, Brandons
+2214, Maycocks
+2215, Tropicana
+2216, Conset Point
+2217, Ragged Point
+2218, Long Beach
+2219, Ocós
+2220, La Barra - Likin
+2221, Chulamar
+2222, Iztapa
+2223, El Paredón
+2224, Capoon's Bay
+2225, West End
+2226, Log Cabins
+2232, Backyards
+2233, Off-The-Wall
+2234, Rockpile/Heisler Park
+2243, Lagoons
+2247, Broadbeach
+2248, Long Track
+2249, Mudjimba Island
+2250, Peregian Creek
+2251, Greenmount
+2252, Narrowneck
+2253, Boiling Pot
+2254, The Spit
+2258, Punta Rocas
+2259, Playa Norte
+2261, Señoritas
+2262, El Huayaco
+2263, Caballeros
+2264, Pulpos
+2265, Triangulo
+2266, Ala Moana
+2267, Laniakea
+2268, Barranquito
+2269, Villa
+2270, Pavos
+2271, Redondo
+2272, Waikiki
+2273, Makaha
+2274, Pampilla
+2275, Punta Roquitas
+2276, El Gringo
+2277, La Isla
+2278, El Brazo
+2279, El Puerto
+2280, El Buey
+2281, La Brava
+2283, Arenillas Negras
+2284, El Tubo
+2285, Las Machas
+2286, Pozo Verde
+2287, Punta Una
+2288, Punta Dos
+2289, Colegio
+2290, La Urraca
+2291, Punta Gruesa
+2292, Intendencia
+2293, Andrómeda
+2294, Pietra del Lobo
+2295, Ram5
+2296, La CÃºpula
+2297, Budeo
+2298, Isla Santa Maria
+2299, Reñaca
+2300, Las Salinas (Pichilemu)
+2301, Dreamland
+2302, Impossibles
+2304, Balangan
+2305, Old Mans - Batu-Bolong
+2309, Airport Reef
+2311, Ceningan
+2312, Sri Lanka
+2313, Tanjung Sari
+2315, Nyang Nyang
+2319, Serangan
+2320, Green Ball
+2322, Infernillo
+2323, Rock Island (Pencit Reef)
+2324, Papagayo
+2325, El Claron
+2326, Tuason Point
+2327, Horseshoe
+2328, Stimpy's
+2329, Barrio
+2330, Pilar
+2331, Pansukian
+2332, Caridad
+2333, Pacifico
+2334, Star Tubes
+2335, Badoc Island Lefts
+2336, Turtle Head
+2337, Boracéia
+2343, Mole
+2344, Galheta
+2345, Naufragados
+2346, Corniche Ouest
+2347, Ouakam
+2348, Vivier
+2349, N'gor Lefts
+2350, N'gor Rights
+2351, Baie des Carpes
+2352, Yoff Beach
+2353, Secret
+2354, Le Virage
+2355, Club Med
+2358, Ponta Paul
+2359, Madalena do Mar
+2360, Achadas da Cruz
+2362, Ribeira da Janela
+2363, Lugar de Baixo
+2364,  Ponta do Tristão
+2365, Ponta do Sino
+2366, Santa Maria
+2367, Spoutnik
+2368, Fragata
+2369, Rife
+2370,  Monte LeÃ£o
+2371, Alibaba
+2372, Curral Joul
+2373, Airport Reef - Phuket
+2374, Nai Thon
+2375, Bang Tao
+2376, Pansea Beach
+2377, Surin Beach
+2378, Kamala Beach
+2379, Kalim
+2380, Patong
+2381, Relax Beach
+2382, Rolling Stones
+2383, Ollie's Shipwreck
+2384, The Rock
+2385, Thorli Beach
+2391, Blow Holes
+2392, Shek O
+2393, Repulse Bay - HK
+2394, Campeche
+2395, Moçambique
+2396, Paúba
+2397, Brava (Littoral Paulista)
+2398, Camburi
+2399, Canto do Leblon
+2400, Pui O
+2401, Embaré
+2403, Jaconé
+2404, Brava
+2405, Laje Rasa
+2406, São Lourenco
+2407, Nanwan
+2408, Juréia
+2409, Jialeshuei
+2410, Morro das Pedras
+2411, Gongs
+2412, Dashi
+2413, Salibya
+2414, Sans Souci
+2415, Grande Riviere
+2416, Crazy's
+2417, São José
+2418, Corais
+2419, Pontal
+2420, Jeribucaçu
+2421, Engenhoca
+2422, Havaizinho
+2423, Itacarezinho
+2424, Jardim Atlantico
+2425, Pedra da Cachorra
+2426, Sul
+2427, Milionários
+2428, Cupe
+2429, Galinhas
+2430, Serrambi
+2431, Imposivel
+2432, Conceição
+2433, Meio
+2434, Boboca
+2435, Abras
+2436, São José
+2437, Baia da Rata
+2439, La Paz
+2440, The Pier - Costa del Balsamo
+2441, La Vaca
+2442, Toro de Oro
+2443, El Cuco
+2444, La Ventana
+2445, El Espino
+2446, Playas del Este
+2454, Lighthouse Beach - Kerala
+2455, Ostional
+2456, Playa Guiones
+2457, Hawa's Beach
+2458, Hog Hole
+2459, Backwash (Golfo Dulce)
+2460, Tiruchindur
+2461, Punta Banco
+2462, Langosta
+2463, Isla Uvita
+2464, Roca Alta
+2465, Harbour Jetties - Visakhapatnam
+2466, Cocaïne Point
+2467, Westfalia
+2468, Rama Krishna Beach
+2469, Punta Barigona
+2470, Park Hotel
+2471, Lawsons Bay
+2472, Playa Jaco
+2473, Mangamari
+2474, Tenneti Park
+2475, Jodugullapullam
+2476, Playa Cocles
+2477, Little Shoal
+2478, Punta Uva
+2479, Playa Manzanillo
+2480, Carate
+2481, Zancudo
+2490, Barco Quebrado
+2491, Tortuguero Beach
+2492, Playa Escondida
+2493, Boca Tusubres
+2494, Esterillos Oeste
+2495, Manzanillo (Limón)
+2496, Nu'usafee Island
+2497, Playa Negra - Limon
+2498, Tafatafa
+2499, Playa Caletas
+2500, Playa Coyote
+2501, The Office
+2502, Racetrack - Sumba
+2503, Five-O
+2504, Pantai Marosi
+2505, Wainukaka
+2506, Paunch
+2507, Bluff
+2508, Club Med - Malaysia
+2509, Chendor Beach
+2511, First Beach
+2512, The Point
+2513, Sandbar
+2514, Las Bóvedas
+2515, La Zurda
+2516, Nuevo Loco
+2517, Mojon Beach
+2518, Pradomar
+2519, Punta Roca - Colombia
+2520, Hawaiisito
+2521, San Carlos Point
+2522, Esmeralda
+2523, Rio Mar
+2524, Punta Teta
+2525, Rinconsito
+2530, Sandy Beach - Puerto Rico
+2533, Rock
+2534, Wilderness (Puerto Rico)
+2535, Hungry
+2536, Nakayama
+2537, Motones
+2539, Azakou
+2541, Kazamoto 
+2542, BCs
+2543, Injou
+2544, Surfers Beach (Puerto Rico)
+2545, Yokino
+2547, Sumiyoshi
+2549, Alize
+2551, La Station
+2552, La Caravelle
+2553, Anse Betrand
+2554, Anse Salabouelle
+2555, Hotel Novotel
+2556, Port St-Francois
+2559, Playa Rosada
+2560, Masachapa
+2561, Montelimar
+2562, El Remanso
+2568, Tamarind
+2569, El Yanke
+2570, T Street (Trafalgar Street)
+2575, Blackies
+2577, Santa Ana River Jetties
+2578, Rockpile/Heisler Park
+2579, Corona Del Mar Jetty
+2580, Four Rocks
+2581, Rush Reef
+2582, Garbanzo
+2583, Tilloo Cut
+2585, Ledges
+2586, Hidden Beach
+2587, Holiday Beach
+2588, Doheny State Beach
+2589, Whale Point Cut
+2590, Poche Beach
+2591, 204s
+2592, Dolphin Street
+2593, 7th Street
+2594, Surfside Jetty
+2596, 72nd Place
+2597, 64th Place
+2599, 13th Street
+2600, Trails
+2604, Torrance Beach/Haggertys
+2605, Lower Haggertys
+2607, Hermosa Beach
+2610, Point Dume
+2611, Venice Beach
+2613, Bay Street
+2625, Refugio State Beach
+2628, Miramar
+2629, Sandspit
+2630, La Conchita Beach
+2632, New Jetty/South Jetty
+2641, Staircase Beach
+2642, Leo Carrillo
+2643, Zero/Nicholas Canyon County Beach
+2644, Solimar Reef and Beach
+2645, Faria Beach
+2646, Emma Wood
+2647, Port Hueneme Beach Park
+2648, Ormond Beach
+2649, James Point
+2672, Little Rincon/Mussel Shoals
+2677, El Porto Beach
+2693, Ceron
+2694, Tomate
+2695, Charlot
+2696, Bagasse
+2697, Cocoa
+2698, Pelle Ã¡ Tarte
+2699, Le Lorrain
+2700, Charpencaye
+2701, Tarpits/Carpinteria State Beach
+2703, Tajiguas
+2704, Biologia
+2705, Yacht 
+2706, Escollera Sur
+2707, La Pepita
+2708, Waikiki (Mar del Plata)
+2709, Mariano
+2710, Diva
+2711, El Muelle
+2712, Miramar (Argentina)
+2713, Paradise
+2714, Pedra do Meio
+2715, Ronco do Mar
+2716, Curral
+2717, Hawaiizinho
+2718, Outside
+2719, Titanzinho
+2720, Volta da Jurema
+2721, Portão
+2722, Futuro
+2723, Leste Oeste
+2724, Ponte Metalica
+2725, Barra do Ceara
+2726, Pecém
+2727, Weligama
+2728, Okanda
+2729, Panama Rights
+2730, Peanut Farm
+2731, Crocodile Rock
+2732, Rivermouth
+2733, Gallé
+2735, Matara
+2736, 20/20's
+2737, Tiger Tracks Left
+2738, Tiger Tracks Rights
+2739, Playa Caribe
+2740, El Malecon
+2742, Playa El Agua
+2743, Outside Ekas
+2744, Anare
+2745, Punta Care
+2746, Fido Point
+2747, Playa Pantaleta
+2748, Carúpano
+2749, Punta de Guiria
+2750, Ninja's
+2751, Flame Bowls
+2752, Puss Puss
+2753, Libanona
+2754, Baie de Galion
+2755, Baie des Singes
+2756, Resorts
+2757, Chefs
+2758, Graveyards (Mauritius)
+2759,  Ilôt Sancho
+2760, Black Rocks (Mauritius)
+2761, Harbour Riviere Noire
+2762, Maconde
+2763, Cap Requin
+2764, Aigrettes
+2765, L'Hermitage
+2766, Pic du Diable
+2767,  La Jetee
+2768, La Caffrine
+2769, Le Port
+2770, Labadi Beach
+2771, Dixcove
+2772, Suicide Cliffs
+2773, Maeda
+2774, Turtles
+2775, Bowls
+2776, Aja
+2780, Little Makaha
+2782, Honokohau
+2783, Kawaihae Breakwater
+2784, Banyans
+2785, Pavilions
+2791, Monabe
+2792, Shishikui
+2793, Teba
+2794, Uchizuma
+2795, Yasuda
+2800, Matsube
+2801, Malibu
+2802, Shida
+2805, Fitii
+2807, Secret (Nias)
+2810, Lances Right
+2811, The Peak - Krui
+2812, Macaronis Right
+2813, Pulau Pisang
+2814, Bali Village
+2815, Way Jambu
+2816, Krui Left
+2817, Krui Right
+2818, Ujung Walur
+2819, Rag's Left
+2821, Nipussi
+2822, Pit Stops
+2823, Beng Bengs
+2824, Hideaways - Mentawai
+2827, Four Bobs
+2828, Karamba
+2829, Chubbies
+2830, A-Frames
+2831, Bintangs
+2833, Silabu
+2835, 7 Palms
+2838, Burgerworld
+2839, Taileleo
+2845, Greenbush
+2849, Suicides - Central Mentawai
+2851, Ombak Tidur
+2853, Ariks
+2855, Iceland
+2861, Lakey Pipe
+2862, No Man's
+2863, Cobblestones
+2864, Nungas
+2866, Periscopes
+2867, Tarcoola
+2868, Nangadoro
+2869, Coronation
+2871, Pea Break
+2872, Blue Holes
+2873, The Box
+2874, Stark Bay
+2877, Salmon Point
+2880, Cunns
+2881, Windmills
+2882, Cactus
+2883, Crushers
+2885, Caves
+2886, Supertubes (Cactus)
+2889, Redgate Peaks
+2893, Observation City
+2897, The Dump
+2898, Pondie
+2899, Spits
+2900, Trigs Beach
+2901, The Trough
+2902, Y-Steps
+2923, Winki Pop / Fairy Bower
+2927, Bilgola Beach
+2928, Bungan
+2929, Little Avalon
+2930, Avalon
+2931, Crackneck
+2932, Coneeley's Reef
+2934, Queenscliff
+2936, South Narrabeen
+2937, North/ South Steyne
+2938, Warriewood
+2940, Copacabana
+2942, Wamberal
+2946, Green Island
+2947, Dolphin Point
+2948, Bendalong Beach
+2949, Dum Dums
+2950, Black Point
+2952, Broken Head
+2953, Aganoa
+2954, Coconuts
+2955, Tiavea Rivermouth
+2956, Waterfalls
+2957, SoloSolos
+2958, Special K
+2959, Pebbles
+2962, Jaguaribe
+2963, Stella Maris
+2964, Kandooma Right
+2965, Batu Karas
+2966, Rainbows
+2967, South Shore Beach
+2968, Pantin
+2969, St Mikes
+2970, Ujong Karang
+2971, Kuala Bubon Lefts
+2972, Hilisataro
+2973, Yoyo
+2974, Al Marsa
+2975, Lagouira
+2976, La Corniche - Sahara
+2977, Ponta Negra - Western Sahara
+2978, Casamar
+2979, Zbarat
+2980, Tarf Noa
+2981, Msdoud - Western Sahara
+2982, Skaymat
+2983, Tarf Entayreft
+2984, Pointe de l'Or
+2985, Foum El Bouir
+2986, Lagtoua
+2987, Cap Blanc
+2988, TaÃ­ba
+2989, Algarrobo
+2990, Maitencillo
+2991, Punta Topocalma
+2992, La Vedette
+2993, Salaverry Harbour
+2994, Sao Marcos
+2995, Aracaji
+2996, Itatinga
+2997, Olinda to Porto de Suape
+2998, Gardur
+2999, Kokrobite
+3000, Nyanyanu
+3001, Fete
+3002, Fort Good Hope
+3004, LP's
+3005, Takoradi
+3006, Cape Three Points
+3007, Fort Sebastian
+3008, University
+3009, La Passe (Ivory Coast)
+3010, Lome-Rivage
+3011, Cotonou Rivermouth
+3012, Fishermans Point
+3013, Dorothy's
+3014, Cassava
+3015, St Charles
+3016, Bouches du Roi
+3017, Krake
+3018, Les Route des Peches
+3019, Sheraton, Novotel
+3020, Momi Bay
+3021, Natadola
+3022, Salani
+3023, Frigates
+3024, Uatotoka
+3025, Ouidah
+3026, Vesi Passage
+3027, Anecho
+3028, Grand Drewin
+3029, Sabang
+3030, Lampuuk
+3032, Pantai Camara
+3033, Cotton Trees
+3034, Mamba Beach
+3035, Rio Mearim
+3036, Pui Puy
+3037, Lam Tadoh Lefts
+3038, Balimbing
+3039, Ujung Siging
+3050, Promises
+3051, Hanalei Bay
+3053, Left Point
+3054, Cement Factory
+3055, Babah Nipah
+3056, Calang Reefs
+3057, Lamno
+3058, Blangujung Rights
+3059, Lambaro Rights
+3060, Losmen Right
+3061, Silabok Island
+3062, Solawi
+3063, Hiliduha
+3064, Benkunqut
+3065, Enggano
+3066, Afulu
+3067, The Hole
+3068, A-Frame
+3069, Atoll Reefs
+3071, Blanchisseuse
+3072, Lagoinha do Leste
+3073, Sanding
+3074, Hiliduha / Dipi
+3075, Lighthouse / Pagai Selatan
+3076, Puerto Salaverry
+3077, Las Cuevas, Trinidad
+3078, Airports - Tobago
+3079, Sunset Rights
+3080, Polihale
+3081, Sunset Left
+3082, Barbers Point
+3083, Windmills - Guantanamo
+3084, Maili Point
+3085, Tracks
+3086, Windmills - Maui
+3087, Mabuntok
+3088, Auqui Left
+3089, Cauit Point
+3090, Badjang
+3091, Moshi Moshi
+3092, Punta Left
+3093, Marami
+3094, Puro Pinget
+3095, Mananget
+3096, Parada Santa
+3097, Nalvo
+3098, Rozelle Beach
+3099, Peeny Wally's
+3100, Runaways
+3101, Cayo Coco
+3102, Sun Beach
+3103, Gibara
+3104, Rock Sound
+3105, North Palmetto Point
+3106, Caracol
+3107, Ginsu
+3108, Le Borgne
+3109, Tiburon Reefs
+3110, Pistons
+3111, Larrache
+3112, Paloma
+3113, Sidi-Rbat
+3114, Tafadna
+3115, Cap Spartel
+3116, Sidi Kaouki 
+3117, Cap Sim
+3118, Haouzia
+3119, El Jadida
+3120, Sidi Bouzid
+3121, Sidi Abed
+3122, Mirleft
+3123, Legzira
+3124, Sidi Ifni
+3125, Boats point
+3126, Plage Blanche
+3127, Tan-Tan Plage
+3128, Tarfaya
+3129, Foum el Oued
+3130, Laâyoune Plage
+3131, Msdoud
+3132, Dakhla
+3133, La Gouira
+3134, Sidi Moussa d'Aglou
+3136, Low Island
+3137, Shoals Point
+3138, Shoals Reef/Wall
+3139, Port Mary
+3140, Kai's Place
+3141, Neva Bay
+3142, Red Tree Reef
+3143, Good Rats
+3144, Sealion Cove
+3145, Sandy Beach - Sitka, Alaska
+3146, Short Ledge
+3147, Racing Lefts
+3148, Pulau Kecil
+3149, Village Reform
+3150, Indo Jiwa
+3151, Serenade
+3152, Coconut Swing
+3153, Double Dome
+3154, Heavy's
+3155, Sidewalk
+3156, Papara
+3157, Passe de Maraa
+3158, Temae
+3159, Maharepa
+3160, Haapiti
+3161, Hauru
+3162, Motu Mahara
+3163, Parea Left
+3164, Parea Right
+3165, Faaroa
+3166, Teavapiti
+3167, Miri-Miri
+3168, Pai-Pai
+3169, Vaiaau
+3170, Nao Nao
+3171, Mount Irvine
+3172, Toauri
+3173, Funeral Point
+3174, Otro Pais
+3175, Carmen D'Uria
+3176, Puerto Azul
+3177, Los Cocos
+3178, Tanaguarena
+3179, Chacopata
+3180, Nahpali
+3181, Nan Madol
+3182, Nahlap
+3183, Playita
+3184, Mamo
+3185, La Esmeralda
+3186, Chaguarama
+3187, Matadeiro
+3188, Forte
+3190, Typhoon Valley
+3191, Praia Branca
+3192, Vila
+3193, Itauna
+3194, Seca
+3195, Santinho
+3196, Ilha dos Lobos
+3197, The Peak (tongatapu)
+3198, Prainha - Brazil
+3199, Barra do Mampituba
+3200, Praia dos Molhes
+3201, Itapeva
+3202, Atlântida Pier
+3203, Praia da Cal
+3204, Guarita
+3205, The Pass
+3206, Cidreira
+3207, Motels
+3208, The Bowl (Tongatapu)
+3209, Lighthouse (Tongatapu)
+3210, Praia Grande - Brazil
+3212, Corners
+3213, Fishtraps
+3215, Bonete
+3216, Castelhanos
+3218, Guarda do Embau
+3219, Canto Bravo
+3220, Amanave Bay
+3221, Capão da Canoa
+3222, Poloa Bay
+3223, Hideaway
+3224, Serua Rights
+3225, Daku
+3226, Tramandaí
+3227, Asili Point
+3228, Nu'uuli
+3229, Crispim
+3230, Chavascal
+3231, Vila do Algodoal
+3232, Rio Capim
+3233, Atalaia
+3234, Marieta - Brazil
+3235, Rio Claro Rivermouth
+3236, Eclipse
+3237, Tivives
+3238, Puerto Caldera
+3239, Boca Barranca
+3240, El Coco
+3241, Sally Ann's
+3242, Casares
+3243, Casa Grande
+3244, Fatuuli Rock
+3245, Coral Heads
+3246, Lauli'ituai
+3247, Liea Point
+3248, Amouli
+3249, Aunu'u
+3250, Las Velas
+3251, Los Naranjos
+3252, Viento Fresco
+3253, Las Gaviotas
+3255, Buritaca
+3256, Manzanillo (Rivas Province)
+3257, Rocky Point
+3258, Playa Serena
+3259, Playa Malibú
+3260, Arrecifes
+3261, Punta Burica
+3262, P-Land
+3263, Nestles
+3264, Punta Miramar
+3265, Tulate
+3266, La Barrita
+3267, Monterrico
+3268, Tecojate
+3269, Las Tunas
+3270, Las Lisas
+3271, Barra de la Gabina
+3272, Lucky Mans
+3273, El Camotal
+3274, El Cabezo
+3275, Playa Mollendo
+3276, Punta de Bombón
+3277, Playa Platanales
+3278, El Olon
+3279, El Colegio
+3280, Pozo de Lizas
+3281, Boca del Rio
+3282, Piedras Negras
+3283, Caleta Sama
+3284, Tiro Alto
+3285, ReventazÃ³n
+3286, Puemape
+3287, Cabo Verde
+3288, ColÃ¡n
+3289, Pacasmayo
+3290, Bermejo
+3291, Paraiso
+3292, Pasamayo
+3293, Centinela
+3294, Conchitas
+3295, Carquin
+3296, Piscina
+3297, Pimentel
+3298, El Hueco
+3299, Baterias
+3300, Jericoacoara
+3301, Yin Yang
+3302, Sliding Rock
+3303, Alao
+3304, Tula
+3305, Vunaniu
+3306, Pipes
+3307, Waidroka Lefts
+3308, Lighthouse
+3309, King Kong Left
+3310, King Kong Right
+3311, Faganeanea
+3312, Nua
+3313, The Leap
+3314, Salailua
+3315, Lulu's Bend
+3316, Sigatoka
+3317, Aganoa Beach
+3318, Tea Bags
+3319, Thailand - Simeulue
+3320, Lolok Point
+3321, Treasure Island
+3322, Lizards Nest
+3323, Turtles
+3324, Gunturs
+3325, Pulau Babi
+3326, Dindos
+3327, Cobras
+3328, El Valle
+3329, El Cantil
+3330, Juan Tornillo
+3331, Secret Right
+3332, Terco
+3333, Tribuga
+3334, Jurubida
+3335, Nuqui
+3336, Derecha Secreta
+3337, Pela Pela
+3338, Termales
+3339, El Mystic
+3340, Pico De Loro
+3341, Silveira
+3342, Boca Damas
+3343, Quepos Jetty
+3344, Quepos Bombie
+3345, Playa Matapalo
+3346, Playa Dominical
+3347, Dominicalito
+3348, Punta Dominical
+3349, El Muelle
+3350, Virac Harbour
+3351, Punta Uvita
+3352, Rio Sierpe Rivermouth
+3353, Playa Hermosa - Osa Peninsula
+3354, Playa Ballena
+3355, Playitas - Osa Peninsula
+3356, Playa El Rey
+3357, Drake's Bay
+3358, Agua Dulce
+3359, Isla Dama
+3360, Las Tacas
+3361, Curanipe
+3362, Tregualemu
+3363, Pullay
+3364, La Rinconada
+3365, Praia Mela
+3366, Desembocadura
+3367, Playa Sector El Piure
+3368, El Faro - Biobio, Chile
+3369, Tirua
+3370, Punta Teatinos
+3371, Pipe
+3372, Derecharcha
+3373, Cueva del Toro
+3374, Tres Playitas
+3375, El Muro
+3376, Playa Blanca - Atacama, Chile
+3377, Playa Monte del Zorro
+3378, Buchupureo
+3379, Punta Quidico
+3380, Puerto Cayo
+3381, Pedarnales
+3382, Punta Ballena
+3383, Oshima
+3384, Nagahama
+3385, Yakutsu
+3386, Mangkudu Lefts
+3387, Toudai-shita
+3388, Wara Point
+3389, Dedjoeng Wane
+3390, Hotel-mae
+3391, Takezaki
+3392, Ikei
+3393, Ko Chan
+3394, Cape Toi
+3395, Nagata
+3396, Osaki
+3399, Piege a Sable
+3400, La Plage Sportive
+3401, La Pyramide
+3402, Djeno Point
+3403, M'Vassa
+3404, Zubair's
+3405, Castaways
+3406, Blue Bowls
+3407, Airports
+3408, Five Islands
+3409, Two Ways
+3410, Love Charms
+3411, Antiques
+3412, Furana
+3413, Kadu
+3414, Koodhoo
+3415, Viligili
+3416, Thundi Beach
+3417, KH
+3418, Inside Mikado
+3419, Refugee's Lefts
+3420, Finnimas
+3421, Machine
+3422, Malik's
+3423, Bedhuge
+3424, Refugee's Rights
+3425, Adonis
+3426, Isdhoo Bank
+3427, Bowling Alley
+3428, Outside Mikado
+3429, Mada's
+3430, Gaukendi Bridge
+3431, Approach Lights
+3432, Madihera
+3433, Shangri-la
+3434, Kanda Muli
+3435, Air Equator Lefts
+3436, Kottey
+3437, Pinheiro
+3438, Da Hua Jiao
+3439, Xichong - Dongchong
+3440, Jici Beach
+3441, Fongbin
+3442, Fulong Beach
+3443, Dao Ao Bay
+3444, Rivermouth Bridge
+3445, Yab-J Rihue Bay
+3446, Shalun
+3447, Jin Shan
+3448, Sunyatsen Beach
+3449, Sanshuei
+3450, Bashien Dong
+3451, Chu Nan
+3452, Cheng Gong
+3453, Kani Rock
+3454, Sandalwood
+3455, West Beach
+3456, Buddha Beach
+3457, Moon Bay
+3458, Golf 14
+3459, Yarakawa
+3460, Xing Tan Wan
+3461, Kame Rock
+3462, Niuling
+3463, Abalone Farm
+3464, Pinghai Point
+3465, Cherry Point
+3466, 88
+3467, Non Nuoc
+3468, Nam O Point
+3469, My Khe
+3470, China Beach
+3471, Cue Dai Beach
+3472, Lang Co
+3473, Binh An
+3474, Karon Beach
+3475, Kata Beach
+3476, Kata Noi Beach
+3477, Nai Harn Beach
+3478, Teluk Mengkuang
+3479, The Quarry
+3480, Baluk Beach
+3481, Strawberry Resort
+3482, Kijal
+3483, Star Jetty Cruise
+3484, Pantai Kemasik
+3485, Teluk Cempedak
+3486, Kertih Resort
+3487, Tanjong Jara
+3488, Marang
+3489, Pantai Juara
+3490, Kanthaya
+3491, Chaungtha
+3492, Gottaung Beach
+3493, Peninsula Left
+3562, Louro
+3664, Camp Lejeune
+3665, Lips
+3666, Cafe Breaks
+3667, Meacoms Pier
+3668, Aluhi Bay
+3669, Messanges
+3670, Paradise Island 
+3672, Laniakea
+3673, Sunset Blvd
+3674, Chicala
+3675, Shipwreck
+3676, Lavadouro
+3677, Ecolodge
+3678, Corblets Bay
+3679, Princeton Jetty
+3680, Balevullin
+3681, Cape Sorell
+3682, Namotu Left
+3683, Belmar
+3684, Staffin Bay
+3685, Talisker Bay
+3686, Glenbrittle
+3687, Anse Gaulette
+3689, Police Bay
+3690, Anse Bougainville
+3691, Pointe Camille
+3692, La Passe
+3693, Carana
+3694, Frégate Island
+3695, Anse aux Poules Bleues
+3696, Grande Anse (La Digue)
+3697, Grande Anse
+3698, Northeast Point
+3699, Anse Intendance
+3700, Barbarons
+3701, Ballybunion 
+3702, Surf Beach
+3704, Wave Buoy 46047
+3705, Baler, Luzon
+3706, San Juan, La Union
+3707, Del Mar
+3708, Burkes Beach
+3709, Zhujiajian
+3710, Scarborough Beach
+3711, Paal 17 - Texel
+3713, Playa Pedasi
+3714, Red Strand (Dirk Bay)
+3716, Ownahincha
+3717, Inchydoney
+3718, Lynmouth
+3719, Solis Grande
+3720, San Francisco - Uruguay
+3721, Los Dedos
+3722, La Boya
+3723, El Desplayado
+3724, Bajos Del Polonio
+3725, Playa del Barco
+3726, La Aguada
+3727, La Barra de Maldonado
+3728, El Emir
+3729, Barra del Chuy
+3730, La Moza
+3731, El Pepe
+3732, Zanja Honda
+3733, La Viuda
+3734, Monterey Bay Offshore
+3735, Punta Negra
+3736, Punta Colorada
+3737, Zorba
+3738, La Posta del Cangrejo
+3739, Jose Ignacio
+3740, Monte hermoso (el espigon)
+3741, Florida Keys Reef
+3742, Waddell Creek
+3743, Poppit Sands
+3745, Imperial Beach
+3746, Caracas
+3747, Benone Strand
+3748, Nacho
+3749, Culdaff
+3750, Cerro Azul
+3751, Storvika
+3752, Lop camping
+3754, Northern Rights
+3755, Yo-yo's - The Hook
+3756, Sejorong
+3757, Yo-yo's - The Wedge
+3758, Tropical
+3760, Portsea
+3761, Quebramar
+3762, Varkala
+3763, Santa Cruz
+3764, Bracklesham Bay
+3765, West Wittering
+3766, Skallelv
+3767, Baishawan
+3768, Salamansa
+3769, Sydney - Shark Island
+3770, Jensen Beach
+3771, Bethune
+3772, North Jetty (Florida)
+3773, Ponte Vedra
+3774, Little Talbot Island
+3775, Fort Pierce North Jetty
+3776, Stuart Public Beach
+3777, Juno Pier
+3778, Palm Beach Jetties
+3779, Hobe Sound
+3780, Setters
+3781, Bikini Beach (Gordon's Bay)
+3782, Cassino Beach
+3784, Praia Da Areia Branca
+3785, Popham Beach
+3786, Talafofo Bay
+3787, Seines
+3788, Galhetas
+3789, Praia do Tombo
+3790, Playa Kanoa
+3791, Boca Sint Joris
+3792, Klein
+3793, Boca Pistol
+3796, Noordhoek
+3797, Bolsa Chica
+3798, Koh Phayam
+3799, Kovalam / Covelong
+3804, Kota Belud
+3805, Nexus Beach
+3806, Tanjung Aru Beach
+3807, Northern Kudat
+3808, Shabandar Forest Park
+3809, Molhe Leste
+3810, Deception Island
+3813, Ocean Shores
+3814, Pohoiki
+3815, Honoli'i
+3816, Vila Nova
+3817, Contendas
+3818, Santa Iria
+3819, Faja Dos Vimes
+3820, Santa Catarina
+3821, Monte Verte
+3822, Ponta do Queimado
+3823, Porto Martins- Ponta Negra
+3824, Quatro Ribeiras
+3825, Praia da Vitoria
+3826, Sao Fernando
+3827, Terreiro
+3828, Pescadore
+3829, Salga
+3830, Santa Barbara
+3831, Rabo de Peixe
+3832, Mosteiros Right
+3833, Mosteiros Left
+3834, Praia dos Mosteiros
+3835, Santa Clara
+3836, Populo
+3837, Santa Cruz/Lagoa
+3838, Vila Franca
+3839, Ponta Garca
+3840, Ribeira Quente Left
+3841, Ribeira Quente Right
+3842, Agua de Alto
+3843, Lago do Linho
+3844, Esquerda da Igreja
+3845, Feiticeiras
+3846, Direita do Passe
+3847, Faja do Belo
+3848, Faja dos Cubres
+3849, Cardoso
+3850, Prainha do Farol de Santa Marta
+3851, Ribanceira
+3852, Praia da Ferrugem
+3853, Bravanesia
+3854, Flamingo
+3855, Praia do Estaleiro
+3856, Balneário Camboriú
+3857, Praia do Buraco
+3858, Praia dos Amores
+3859, Praia dos Amores
+3860, Prainha São Francisco Do Sul
+3861, Praia Grande - São Francisco do Sul
+3862, Guaratuba
+3863, Monduba
+3864, São Pedro
+3865, Praia do Guaeca
+3866, Praia da Baleia
+3867, Sapê
+3868, Praia Grande
+3869, São Pedro
+3870, Ubatuba
+3871, Vermelha do Norte
+3872, Itamambuca
+3873, Félix
+3874, Grumari
+3875, Prainha
+3876, Reserva beach
+3877, Barra
+3878, Canal de Itaipu
+3879, Praia do Forte
+3880, Costa Azul
+3881, Barra do Una 
+3882, Praia do Pecado
+3883, Laje do Pecado
+3884, Grussai
+3885, Praia Brava
+3886, Itajai
+3887, Praia do Ule
+3888, Barra do Jucu
+3889, Regencia
+3890, Setiba
+3891, Cupe
+3892, Mar dos Macacos
+3893, Cabedelo - Paraíba
+3894, Tabatinga
+3895, Xoxoline
+3896, Ponta Negra
+3897, Farol da Barra
+3898, Barravento
+3899, Corrente
+3901, Praia Azul
+3902, Ouddorp
+3903, Brora Beach
+3904, Sandside Bay
+3905, Melvich
+3906, Strathy
+3907, Armadale Bay
+3908, Torrisdale
+3909, Sandwood Bay
+3910, South Shetland
+3911, Pearly Beach
+3912, Spiders
+3913, Martins Bay
+3914, Mason Bay - Stewart Island
+3915, Porpoise Bay
+3916, Walohiu
+3917, Passe Jimmy.
+3918, Popenguine
+3919, Hotels
+3920, Cabo Ledo
+3921, South Myanmar
+3922, The Rock - Myanmar
+3923, Ngwe Saung
+3924, Gwa
+3925, Løkken
+3926, Thorsminde
+3927, Agger
+3928, Grape bay
+3929, Hungry bay
+3930, Southlands
+3931, Tucks
+3932, Sea Island Jetty
+3933, Shipwreck
+3934, Cruz Roja
+3935, Generoso
+3937, Broadstairs - Viking Bay
+3938, St Bees
+3939, Blackpool South
+3940, Camber sands
+3941, Hornsea
+3942, Caswell Bay
+3943, Port Mansfield Jetties
+3944, 61st Street
+3945, Isla Blanca State Park
+3946, Boca Chica
+3947, Matagorda
+3948, Fish Pass Jetties
+3949, Horace Caldwell Pier
+3950, JP Luby Surf Park
+3951, Flagship
+3952, Quintana
+3953, Surfside
+3954, 37th Street
+3956, Papeari
+3957, Magics 
+3958, Pine Trees
+3959, El Bajo - Las Palmas
+3960, Puerto Cayo
+3961, San Lorenzo
+3962, El Pelado
+3963, Mal Paso
+3964, Punta Carnero
+3965, La Chueca
+3966, El Barco - Salinas
+3967, Coito
+3968, Las Tunas
+3969, Puerto Lopez
+3970, Santa Marianita
+3971, La Cabuya
+3972, Muisne
+3973, Estero de platano
+3974, Tonsupa
+3985, Calais
+3988, Breidavik
+3989, Hirano beach
+3990, Cap Gris-Nez
+3991, Wimereux
+3993, Baga and Calungute
+3994, Gokarna
+3995, Kapu Beach Lighthouse
+3996, Maravanthe
+3997, Bhatkal
+3998, Mulki
+3999, Murdeshwara
+4000, Mahe
+4001, Payyambalam Beach, Kannur
+4002, Tamania (Cap 8)
+4003, Untouchables
+4004, Mutsure
+4005, Padma
+4008, Ketewel
+4009, Balian
+4010, Padangbai
+4011, Pantai Air Manis
+4012, Bengkulu Point
+4013, Crane Bay
+4014, Kashima, Ibaraki
+4015, Katagai
+4016, Onjuku
+4017, Barahona
+4018, Tortuga Bay
+4019, La Loberia
+4020, El Faro
+4021, Miller's Rights
+4022, Pero Lefts
+4023, Pero Rights
+4024, Pulau Dana
+4025, Raijua
+4026, Wainjapu
+4027, Wainjapu
+4028, Tanjung Kucur
+4029, Parangtritis
+4030, Auroville
+4031, Big Rock - Fisherman's Cove
+4032, Puri
+4033, Mahabalipuram Shore Temple
+4034, Fontana
+4035, Palmeira
+4036, Ponta Brava
+4037, Boa Vista Bahia
+4038, Sabi Sabi - São Nicolau
+4039, Goldenwest
+4040, Strands Point
+4041, Agate/Pearl Street
+4042, Dadonghai Bay
+4043, Yalong Bay
+4044, Houhai Bay
+4045, Puerto Morelos
+4046, T'ooster
+4047, Middelkerke
+4048, De Panne
+4049, Weisse Düne
+4050, Avon
+4052, Island Beach State Park
+4053, Jenkinsons
+4054, Margate Pier
+4055, Monmouth Beach
+4056, Poverty Beach
+4057, Block Island
+4058, Weekapaug
+4059, East Beach
+4063, Aramoana Spit
+4064, Blue Duck Stream
+4065, Clarence River
+4066, Elliot Bay
+4067, Frentzes Reef
+4068, Gore Bay
+4069, Henderson Bay
+4070, Horseshoe Bay
+4071, Hickory Bay
+4072, Kahutara
+4073, Karitane
+4074, Loisells
+4075, Magnet Bay
+4076, Makarori Point
+4077, Murderers
+4078, Muriwai Beach
+4079, Orewa Beach
+4080, Pataua Bar
+4081, North Makarori
+4082, Motunau Beach
+4083, Shelter Cove
+4084, Cinnamon Bay
+4085, Brewers Bay
+4086, Yacht Harbour
+4087, Tills
+4088, Bettys
+4089, Puraran Majestic
+4090, Gubat Sorsogon 
+4091, Coal Point
+4092, Eaglehawk Neck
+4093, Roaring Beach
+4094, Tessos
+4095, The Neck
+4096, Park Beach
+4097, Boat Harbour Beach
+4098, Robbos Point
+4099, Tam O'Shanter
+4100, Boa
+4101, N'Dana
+4102, Do'o
+4103, Ndao
+4104, Peanuts
+4105, Savu Left
+4106, T-Land
+4107, Savu Right
+4108, La Digue
+4109, L'Étang-Salé
+4110, Manapany
+4111, Batu Buruk, KT
+4112, Tungku Beach
+4113, Chempedak Bay
+4114, Kuala Rompin
+4115, Pakar
+4116, Chincoteague
+4117, Fenwick
+4119, Belongas
+4121, Gili Air
+4122, Gili Trawangan
+4123, Don-Don
+4125, Inside Ekas
+4126, Inside Grupuk
+4129, Outside Grupuk
+4130, Sengigi
+4131, Segar
+4132, Sereweh
+4135, Bauang
+4136, Charlie's Point
+4137, Car-rille
+4138, Cemento
+4139, Avalon Point
+4140, Barra de Balizas
+4141, Elliston
+4142, Pennington Bay
+4143, Bahia Tortugas
+4144, Cabo Colonet
+4145, Calafia
+4146, K55/Campo Lopez
+4147, K38, K38.5, K39
+4148, Nine Palms
+4149, Las Gaviotas - Baja
+4150, K58/La Fonda
+4151, Open Doors
+4152, Punta Camalú
+4153, San Antonio del Mar
+4154, Santo Tomas
+4155, Quatro Casas
+4156, Salsipuedes
+4157, Scorpion Bay
+4158, Shipwrecks
+4159, Shipwrecks/Freighters
+4160, Folkestone
+4161, Pentewan
+4162, Trebarwith strand
+4163, La Paloma
+4164, Playa de los Lances
+4165, Playa Hermosa
+4166, Dalian Golden Pebble Beach
+4167, Dalian Dashan Island
+4168, Ders
+4169, The Spot
+4170, Are Guling
+4171, Tangshan  Qianshui Bay 
+4172, Tangshan-yuetuo Island
+4173, Shilaoren Beach
+4174, Laoshan Village
+4175, Golden Sand Beach - Huangdao
+4176, Silver Sand Beach - Huangdao
+4177, Huaniao Island 
+4178, Shengsi Jinsha Beach
+4179, Shengsi Huichen
+4180, Zhujia Island Nansha
+4181, Putuoshan Island Qianpu Beach
+4182, Tantoushan Island
+4183, Jinqimen - Nongcuncun
+4184, Hai Ling Dao
+4185, Guangdong Maoming Dongbianbo Beach
+4186, Fangchenggang
+4187, Dapingpo
+4188, Lingshui - Xincun Beach 
+4189, Linshui - Windmill Bay
+4190, Shimei Bay
+4191, Riyue Wan - Main Left
+4192, San Onofre
+4193, Dunes/Surfer's Beach
+4194, Amelia Pier
+4195, Mayport Poles
+4196, Vilano
+4197, Canova Beach
+4198, Coral Cove Park
+4199, Delray Beach
+4200, Lantana
+4201, Spanish House
+4202, Dania Beach Pier
+4203, Ormond Beach
+4204, Topanga State Beach
+4205, Chart House Rights
+4206, Latigo Canyon
+4207, Palos Verdes Cove
+4208, Redondo Beach Breakwater
+4209, Birdrock
+4210, Horseshoe
+4211, Sunset Cliffs
+4212, Ocean beach
+4213, Point Loma
+4214, Windansea Beach
+4215, Bolinas Jetty
+4216, Stinson Beach
+4217, Wilkes Passage
+4218, Wells Beach
+4220, Halaktirskiy Beach
+4221, Bolinas
+4222, Arenal de Moris
+4224, Cupsogue
+4225, Flies
+4226, Georgica (East Hampton)
+4228, Inani Point
+4229, Kolatoli Point
+4230, St. Martins
+4231, Da He Beach
+4232, Xiang Bi Ao
+4233, Zhujia East Beach
+4234, Rizhao Gold Beach
+4235, Wan Ping Kou
+4236, Jimo Ocean Springs
+4237, Cheray Beach
+4238, Thotapalli
+4239, Rameswaram
+4240, Poovar
+4241, Mukkam
+4242, Chippada
+4243, Chintapalli
+4244, Yarada
+4245, Vattikottai
+4246, Sandy Point - Visag, India
+4247, Rutukonda
+4248, Egmond Aan Zee
+4250, San Gallan
+4251, Devereux
+4253, Panorama Point  
+4261, Surtainville
+4262, Faroe Islands
+4266, Dos Playas
+4267, Wariruri
+4268, Urirama
+4269, Druif
+4270, Dunes/Dooms
+4271, Andicuri
+4272, Golf Course (Socials)
+4273, Rutaki Passage
+4274, Avana
+4275, Matai Wreck
+4276, Norrie Park
+4277, Avaavaroa Passage
+4278, Club Raro
+4280, Red Stones
+4281, Chernishova
+4282, Ahlestisheva
+4283, Waimea Offshore (51201)
+4284, Pauwela Maui Offshore (51205)
+4285, Punta Galea
+4286, Jennettes Pier
+4287, Lahaina Harbor / Breakwall
+4288, Balneario Orense
+4289, Shabandar Beach
+4290, Playa Morrillo
+4291, Karamawi
+4292, La Esco
+4293, Arambol Beach
+4294, Darne
+4295, Grotta
+4296, Vík
+4297, Olafsfjordur
+4298, Hofn
+4299, Flotskiy
+4300, Vik
+4301, Asa
+4302, Apelviken
+4303, Traslovslage
+4304, Glommen
+4305, Gronhogen
+4306, Haga Park
+4307, Angjarnsudden
+4308, Melbystrand
+4309, Tofta
+4310, Hogklint
+4311, Faro Island
+4312, Torö Stenstrand
+4313, Kåseberga
+4314, Kappelhamnsviken
+4315, Vaddo
+4316, Mölle
+4317, Lillsnäck Point
+4318, Sikhjalma
+4319, Gouillaud
+4320, Le Lizay
+4321, Southerndown
+4323, Beliche
+4324, Zavial
+4325, Praia da Luz
+4326, Praia Castelejo
+4327, Praia da Cordoama
+4328, Praia da Bordeira
+4329, Amoreira
+4330, Monte Clérigo
+4331, Monte Clérigo
+4332, Carriagem
+4333, Zambujeria do Mar
+4334, Cogumelo
+4335, Porto Covo
+4336, São Torpes
+4337, Sesimbra
+4338, Bicas
+4339, Largoa de Albuferia
+4340, Santa Amaro
+4341, Praia das Maçás
+4342, São Julião
+4343, Ribeira d'Ilhas
+4344, Coxos
+4345, São Lourenço
+4346, Consolação
+4347, Molho Leste
+4348, Belgas
+4349, Almagreira
+4350, Foz do Arelho
+4351, São Pedro do Moel
+4352, Leirosa
+4353, Torreira
+4354, Furadouro
+4355, Miramar
+4356, Luz (Porto)
+4357, Perafita
+4358, Azurara
+4359, Vila do Conde
+4360, Póvoa do Varzim
+4361, Fão
+4362, Esposende
+4363, Vila Praia de Âncora
+4364, Santa Maria de Oia
+4365, La Lanzada
+4366, Rio Siera
+4367, Nemiña
+4368, Malpica
+4369, Razo
+4370, Caion
+4371, Barrañan
+4372, Playa del Orzán
+4373, Doniños
+4374, San Xorxe
+4375, Ponzos
+4376, Valdoviño
+4377, San Anton
+4378, Muiñelos
+4379, Reinante
+4380, San Cosme
+4381, Peñarronda
+4382, Frejulfe
+4383, Otur
+4384, Playón de Bayas
+4385, Xago
+4386, Verdicio
+4387, San Lorenzo
+4388, Peñarrubia
+4389, Playa España
+4390, Playa Vega
+4391, Ribadesella
+4392, San Antolin
+4393, Gerra
+4394, Oyambre
+4395, Liencres
+4396, Langre
+4397, Berria
+4398, Laredo
+4399, La Arena
+4400, Bakio
+4401, Laga
+4402, Deba
+4403, La Salie
+4404, La Côte Sauvage
+4405, Les Allassins
+4406, Noirmoutier
+4407, St jean de monts
+4409, Gohaud   
+4410, L'Ermitage
+4411, La Courance
+4412, Penthièvre
+4413, Pavilosta
+4414, Liepāja
+4415, Užava
+4416, Pape
+4417, Nida
+4418, Ristna
+4419, Spoils
+4420, Commercial Pier
+4421, Hillsboro Inlet
+4422, Sand Dollar Beach
+4423, Pico Creek
+4424, Koeël Bay
+4425, Llandudno
+4426, Melnrage
+4427, Preila
+4428, Vääna-Jõesuu
+4429, Binz / Rügen
+4437, Ducks
+4458, Playa Reina
+4459, Agate Beach
+4460, Bonanza Beach
+4462, Leba
+4463, Dabki
+4464, Władysławowo
+4482, Crystal Beach
+4483, Magic Left
+4484, Bengkulu Beach
+4485, Liwa
+4486, Tavarua - Resturants
+4489, Barra do Una
+4490, Secret Harbour
